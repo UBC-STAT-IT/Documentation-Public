@@ -33,6 +33,8 @@ Basic knowledge on using Linux through a terminal/console/command line is recomm
 To get a simple command line interface on the server, open a terminal or PowerShell window and use the SSH command:  
 `ssh username@dsigpu.stat.ubc.ca`
 
+If you are off campus, ensure that your are connected to UBC myVPN or the SSH command will time out.
+
 To close the SSH session, enter the command `exit`.
 
 It's recommended to write and run Python directly on the server to take full advantage of its capabilities.
