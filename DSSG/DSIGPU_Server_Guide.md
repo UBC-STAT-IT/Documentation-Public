@@ -96,7 +96,7 @@ Note the word `demo` in the parenthesis, this is the current `conda` environment
 
 Now that we have activated our new `conda` environment we can simply install packages with the usual commands `conda install` or `pip install`.
 
-When installing packages that will use the GPU, ensure that they are compatible with the CUDA toolkit version installed on the server.
+When installing packages that will use the GPU, ensure that they are compatible with the CUDA toolkit version installed on the server (currently 12.1).
 
 To go back to the `base` environment use the command `conda activate`. 
 
