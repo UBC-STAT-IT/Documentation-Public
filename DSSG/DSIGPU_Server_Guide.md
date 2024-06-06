@@ -8,7 +8,7 @@
     - [Running Python Code](#running-python-code)
 
 ## Introduction
-For deep learning or computer vision workloads, it is usually advantageous to run them on systems that have access to a GPU (Graphical Processing Unit) as they accel in parallel operations and have high memory bandwidth.
+For deep learning or computer vision workloads, it is usually advantageous to run them on systems that have access to a GPU (Graphical Processing Unit) as they excel in parallel operations and have high memory bandwidth.
 
 A GPU server is available at the hostname `dsigpu.stat.ubc.ca` for exclusive use by DSSG fellows. 
 
