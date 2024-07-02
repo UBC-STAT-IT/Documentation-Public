@@ -20,7 +20,7 @@ Its current specifications are:
 | RAM | 64GB DDR4 | 
 | GPU | Nvidia GeForce RTX 3050 |    
 | CUDA | 12.1 |  
-| Driver | 535.161.08 |
+| Driver | 535.*.* |
 | OS | Ubuntu 20.04 |
 
 Basic knowledge on using Linux through a terminal/console/command line is recommended.
