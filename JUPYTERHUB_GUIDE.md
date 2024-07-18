@@ -6,9 +6,8 @@ This guide contains tips and FAQs which help to avoid common issues that arise w
 ### Tips
 1. [Open multiple notebook tabs](#open-multiple-notebook-tabs)
 2. [Check memory usage](#check-memory-usage)
-3. [View hidden files](#view-hidden-files)
-4. [Clone a GitHub repo](#clone-a-github-repo)
-5. [Get a copy of everything](#get-a-copy-of-everything)
+3. [Clone a GitHub repo](#clone-a-github-repo)
+4. [Get a copy of everything](#get-a-copy-of-everything)
 
 ### FAQs
 1. [Why are none of my cells running?](#why-are-none-of-my-cells-running)
