@@ -1,4 +1,4 @@
-# JupyterLab Guide
+# JupyterHub Guide
 
 This guide contains tips and FAQs which help to avoid common issues that arise when using JupyterLab.  
 
