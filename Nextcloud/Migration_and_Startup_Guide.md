@@ -6,6 +6,8 @@ We will be migrating to a new Nextcloud server as the old Nextcloud server's ope
 
 During the migration window, access to Nextcloud will be temporarily suspended. Any files already synced locally to your device should still be accessible, however files will not be synced to or downloaded from the server.
 
+After the migration, users who were already using Nextcloud before the migration should follow the [after migration steps](#after-migration-steps) to confirm that your Nextcloud client is able to sync with the new server.
+
 If you encounter any issues with the guides below, contact STAT IT at help@stat.ubc.ca for assistance.
 
 # Table of Contents
@@ -14,6 +16,8 @@ If you encounter any issues with the guides below, contact STAT IT at help@stat.
 - [Add another Account](#add-another-account)
 
 ## After Migration Steps
+
+**These steps are only for those who were already using Nextcloud before the migration**
 
 The Statistics IT team will notify all users when the migration has completed through e-mail and Slack. Once you receive the notification, please follow the steps below if you were using Nextcloud before the migration.
 
@@ -64,6 +68,8 @@ Follow the prompts on screen to install the latest version of the Nextcloud clie
 6\. Go to the Nextcloud folder on your device (through Finder on Mac or File Explorer on Windows) and test that you are able to save, delete, and rename files.
 
 ## Add another Account
+
+**For beta testers or troubleshooting only**
 
 1\. Go to your system tray and click the Nextcloud icon to open the Nextcloud window.
 
