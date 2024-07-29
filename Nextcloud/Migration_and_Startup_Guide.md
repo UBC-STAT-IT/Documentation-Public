@@ -34,23 +34,25 @@ The Statistics IT team will notify all users when the migration has completed th
 
 ![Alt text](../images/Nextcloud/image1.png)
 
-2\. Click the **Sync now** button in the window and if the window shows a green checkmark and **All synced!** like the image above, then you can skip to step 6. If not, then continue to step 3.
+**If you already upgraded your client before the migration, skip to step 4.**
 
-3\. Click the small downwards pointing arrow beside your name and then click Settings.
+2\. Click the small downwards pointing arrow beside your name and then click Settings.
 
 ![Alt text](../images/Nextcloud/image3.png)
 
-4\. Click the **General** menu option and click the **Check Now** button beside the "Automatically check for updates" checkbox.
+3\. Click the **General** menu option and click the **Check Now** button beside the "Automatically check for updates" checkbox.
 
 ![Alt text](../images/Nextcloud/image4.png)
 
 Follow the prompts on screen to install the latest version of the Nextcloud client. Reboot your device once completed.
 
-5\. Retry steps 1 and 2. If you still do not receive the **All synced!** message, you can try re-installing Nextcloud from [here](https://nextcloud.com/install/) under **Download for Desktop**, try [adding another account](#add-another-account),  or contact Statistics IT support help@stat.ubc.ca.
+4\. Open the app like in step 1 and click the **Sync now** button in the window, wait for your files to sync and check if the window eventually shows a green checkmark and **All synced!**. 
+
+If you do not receive the **All synced!** message, you can try re-installing Nextcloud from [here](https://nextcloud.com/install/) under **Download for Desktop**, try [adding another account](#add-another-account),  or contact Statistics IT support help@stat.ubc.ca.
 
 **Note**: If you find the macOS 12+ installer does not work, try the macOS Virtual Files 12+ installer.
 
-6\. Go to the Nextcloud folder located on your device and check that your files can be opened, renamed, and saved. If so, then your client has been migrated successfully.
+5\. Go to the Nextcloud folder located on your device and check that your files can be opened, renamed, and saved. If so, then your client has been migrated successfully.
 
 ## Startup Guide
 
