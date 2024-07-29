@@ -65,7 +65,7 @@ Follow the prompts on screen to install the latest version of the Nextcloud clie
 
 ## Add another Account
 
-1\. Go to your system tray and click the Nextcloud icon to open the Nextcloud window. Confirm that your account is syncing successfully. 
+1\. Go to your system tray and click the Nextcloud icon to open the Nextcloud window.
 
 **Note**: The icon could also look like this &nbsp; ![Alt text](../images/Nextcloud/image2.png)
 
