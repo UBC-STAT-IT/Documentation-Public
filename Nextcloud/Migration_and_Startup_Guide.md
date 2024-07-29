@@ -6,10 +6,9 @@ We will be migrating to a new Nextcloud server as the old Nextcloud server's ope
 
 For context:
 - cloud.stat.ubc.ca is the new Nextcloud server running RHEL9
-- nc9.stat.ubc.ca is the old Nextcloud server running RHEL7 (end of life)
-- owncloud.stat.ubc.ca is an alias for the old server nc9.stat.ubc.ca
+- owncloud.stat.ubc.ca is the old Nextcloud server running RHEL7 (end of life)
 
-nc9.stat.ubc.ca and owncloud.stat.ubc.ca domain names will point to new server cloud.stat.ubc.ca after the migration.
+owncloud.stat.ubc.ca will point to new server cloud.stat.ubc.ca after the migration.
 
 During the migration window, access to Nextcloud will be temporarily suspended. Any files already synced locally to your device should still be accessible, however files will not be synced to or downloaded from the server.
 
