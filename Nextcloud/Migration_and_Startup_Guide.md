@@ -4,6 +4,13 @@ Nextcloud (cloud.stat.ubc.ca) is a cloud storage service that provides Statistic
 
 We will be migrating to a new Nextcloud server as the old Nextcloud server's operating system is reaching end of life status. This document aims to assist Statistics staff, faculty, and students with the transition over to the new server.
 
+For context:
+- cloud.stat.ubc.ca is the new Nextcloud server running RHEL9
+- nc9.stat.ubc.ca is the old Nextcloud server running RHEL7 (end of life)
+- owncloud.stat.ubc.ca is an alias for the old server nc9.stat.ubc.ca
+
+nc9.stat.ubc.ca and owncloud.stat.ubc.ca domain names will point to new server cloud.stat.ubc.ca after the migration.
+
 During the migration window, access to Nextcloud will be temporarily suspended. Any files already synced locally to your device should still be accessible, however files will not be synced to or downloaded from the server.
 
 After the migration, users who were already using Nextcloud before the migration should follow the [after migration steps](#after-migration-steps) to confirm that your Nextcloud client is able to sync with the new server.
