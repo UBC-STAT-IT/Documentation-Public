@@ -1,6 +1,6 @@
 # Nextcloud Migration/Startup Guide
 
-Nextcloud (owncloud.stat.ubc.ca) is a cloud storage service that provides Statistics users with 50GB of file storage. If you aren't already using Nextcloud, you can get started with the [startup guide](#startup-guide).
+Nextcloud (cloud.stat.ubc.ca) is a cloud storage service that provides Statistics users with 50GB of file storage. If you aren't already using Nextcloud, you can get started with the [startup guide](#startup-guide).
 
 We will be migrating to a new Nextcloud server as the old Nextcloud server's operating system is reaching end of life status. This document aims to assist Statistics staff, faculty, and students with the transition over to the new server.
 
