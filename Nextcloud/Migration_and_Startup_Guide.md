@@ -19,6 +19,7 @@ If you encounter any issues with the guides below, contact STAT IT at help@stat.
 # Table of Contents
 - [After Migration Steps](#after-migration-steps)
 - [Startup Guide](#startup-guide)
+- [Upgrade Nextcloud Client](#upgrade-nextcloud-client)
 - [Add another Account](#add-another-account)
 
 ## After Migration Steps
@@ -72,6 +73,25 @@ Follow the prompts on screen to install the latest version of the Nextcloud clie
 ![Alt text](../images/Nextcloud/image1.png)
 
 6\. Go to the Nextcloud folder on your device (through Finder on Mac or File Explorer on Windows) and test that you are able to save, delete, and rename files.
+
+## Upgrade Nextcloud Client
+
+1\. Go to your system tray and click the Nextcloud icon to open the Nextcloud window.
+
+**Note**: The icon could also look like this &nbsp; ![Alt text](../images/Nextcloud/image2.png)
+
+![Alt text](../images/Nextcloud/image1.png)
+
+2\. Click the small downwards pointing arrow beside your name and then click Settings.
+
+![Alt text](../images/Nextcloud/image3.png)
+
+3\. Click the **General** menu option and click the **Check Now** button beside the "Automatically check for updates" checkbox.
+
+![Alt text](../images/Nextcloud/image4.png)
+
+Follow the prompts on screen to install the latest version of the Nextcloud client. Reboot your device once completed.
+
 
 ## Add another Account
 
