@@ -28,7 +28,7 @@ To do so in JupyterLab, right click the tab that contains the notebook in questi
 
 On the dropdown menu, click **New View for Notebook**:    
 
-![Alt text](images/JUPYTERHUB_GUIDE/image1.png)
+![Alt text](../images/JUPYTERLAB_GUIDE/image1.png)
 
 This will create a split screen, showing a copy of the notebook on half of the screen.
 
@@ -38,7 +38,7 @@ Student JupyterLab instances are limited to 2GB (2048MB) of memory usage, if tha
 
 To check how much memory JupyterLab is using, there is a indicator on the bottom left of the window:
 
-![Alt text](images/JUPYTERHUB_GUIDE/image3.png)
+![Alt text](../images/JUPYTERLAB_GUIDE/image3.png)
 
 The maximum amount of memory usage a notebook should use is around 1GB (1024MB). If you find that JupyterLab is hitting the limit very often, here are some steps you can take:
 
@@ -60,19 +60,19 @@ To clone a GitHub repo for collaborative work, follow these steps:
 
 1. Find the HTTPS repo link from GitHub and copy it to the clipboard
 
-![alt text](images/JUPYTERHUB_GUIDE/image5.png)
+![alt text](../images/JUPYTERLAB_GUIDE/image5.png)
 
 2. Go to your JupyterLab and make sure you're in the home directory by clicking the small grey folder icon on the top left of the menu that shows your files and folders
 
-![Alt text](images/JUPYTERHUB_GUIDE/image2.png)
+![Alt text](../images/JUPYTERLAB_GUIDE/image2.png)
 
 3. Go to the JupyterLab git extension menu by clicking its tab on the left of JupyterLab:
 
-![alt text](images/JUPYTERHUB_GUIDE/image6.png)
+![alt text](../images/JUPYTERLAB_GUIDE/image6.png)
 
 4. Click "Clone a Repository" and then paste the repo link from step 1 into the box and click Clone.
 
-![alt text](images/JUPYTERHUB_GUIDE/image7.png)
+![alt text](../images/JUPYTERLAB_GUIDE/image7.png)
 
 The repo should now be in your home directory in a folder titled with the name of your repo.
 
@@ -84,7 +84,7 @@ To get a zipped copy of all of your work at the end of term:
 
 1. Open a terminal by clicking the terminal icon when you first open JupyterLab from the Canvas homepage or in a new JupyterLab tab.
   
-![Alt text](images/JUPYTERHUB_GUIDE/image4.png)
+![Alt text](../images/JUPYTERLAB_GUIDE/image4.png)
 
 2. Enter the following command into the terminal:
 ```
