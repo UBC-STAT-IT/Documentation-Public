@@ -46,13 +46,27 @@ The Statistics IT team will notify all users when the migration has completed th
 
 Follow the prompts on screen to install the latest version of the Nextcloud client. Reboot your device once completed.
 
-4\. Open the app like in step 1 and click the **Sync now** button in the window, wait for your files to sync and check if the window eventually shows a green checkmark and **All synced!**. 
+4\. Open the app like in step 1, if the window says you're "Offline" (example below) then you likely need to log back in to your account.
+
+![Alt text](../images/Nextcloud/image8.png)
+
+Click the small downwards pointing arrow beside your name and then the ellipses beside your account on the dropdown menu.
+
+![Alt text](../images/Nextcloud/image6.png)
+
+Click "Log In". 
+
+![Alt text](../images/Nextcloud/image7.png)
+
+A browser window will open, follow the prompts in the browser window to log back in to Nextcloud.
+
+5\. Open the app like in step 1 and click the **Sync now** button in the window, wait for your files to sync and check if the window eventually shows a green checkmark and **All synced!**. 
 
 If you do not receive the **All synced!** message, you can try re-installing Nextcloud from [here](https://nextcloud.com/install/) under **Download for Desktop**, try [adding another account](#add-another-account),  or contact Statistics IT support help@stat.ubc.ca.
 
 **Note**: If you find the macOS 12+ installer does not work, try the macOS Virtual Files 12+ installer.
 
-5\. Go to the Nextcloud folder located on your device and check that your files can be opened, renamed, and saved. If so, then your client has been migrated successfully.
+6\. Go to the Nextcloud folder located on your device and check that your files can be opened, renamed, and saved. If so, then your client has been migrated successfully.
 
 ## Startup Guide
 
