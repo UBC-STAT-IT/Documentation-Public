@@ -22,7 +22,7 @@ For any encryption method, **always** keep a note/record of the recovery key in 
 
 ### MacOS
 
-1. On your Mac, choose Apple menu  > System Settings, click Privacy & Security  in the sidebar, then click FileVault. (You may need to scroll down.)
+1. On your Mac, open System Settings (in Launchpad or Applications folder), click Privacy & Security  in the sidebar, then click FileVault. (You may need to scroll down.)
 
 <img src="../images/Laptop_Encryption_Guide/image2.jpg" alt="Alt text" width="50%"/>
 
