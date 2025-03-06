@@ -93,6 +93,8 @@ To start off the workshop project it's usually far easier to copy the needed fil
 
 3. Create a `master` branch in the repo with `git checkout -b master`
 
+    Note: This is not necessary if you're working on `r8-asda.stat.ubc.ca` or a machine with an older git installation that defaults to a `master` branch but newer git installations will default to a `main` branch which will cause the git hook script that publishes the workshop to the website to fail.
+
 4. Run `git add .` to stage all the changed files.
 
 5. Run `git commit -m "<your commit message>"` to create a commit with your changes. Replace `<your commit message>` with a short description of what your changes are about or just `"First commit"` if it's the first commit in the repo. 
