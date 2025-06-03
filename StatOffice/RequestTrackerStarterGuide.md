@@ -60,7 +60,7 @@ To reply to a ticket go to the 'History' panel and navigate to the latest messag
 
 <img width="1423" alt="image" src="https://github.com/user-attachments/assets/ed125e00-eb9b-427a-b911-dd9208aeffed" />
 
-Hover over the top right of the input box and click the red arrow to "Insert paragraph here" which will let you start typing above the requestors reply.
+Hover over the top right of the input box and click the red arrow (not visible in the image) to "Insert paragraph here" which will let you start typing above the requestors reply.
 
 <img width="930" alt="image" src="https://github.com/user-attachments/assets/2945e6e8-2710-4c3e-b995-d764afbf6108" />
 
@@ -78,11 +78,11 @@ Click the edit button on the top right of the panel.
 
 <img width="706" alt="image" src="https://github.com/user-attachments/assets/abeda3b9-6c40-4338-bafd-a2dd595c3609" />
 
-Click the 'Status' dropdown menu and click 'resolved'
+Click the 'Status' dropdown menu and click 'resolved'. Then click the 'Save' button.
 
 <img width="694" alt="image" src="https://github.com/user-attachments/assets/4c508754-78e6-45cd-a596-181045aab9b8" />
 
-If any of the other statuses match the situation, choose one of those instead.
+Otherwise if any of the other statuses match the situation, choose one of those instead.
 
 If you resolved the ticket then the ticket will no longer be shown to you or anybody else on the front page or the ticket queue. It has been archived but can be found with the ticket search tool found on the top menu bar.
 
