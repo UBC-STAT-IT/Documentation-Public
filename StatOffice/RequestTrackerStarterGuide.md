@@ -56,7 +56,7 @@ This page shows you several panels:
 
 ## Replying to tickets
 
-To reply to a ticket go to the 'History' panel and navigate to the latest message from the ticket requestor and click reply button (arrow pointing right).
+To reply to a ticket go to the 'History' panel and navigate to the latest message from the ticket requestor and click reply button (arrow pointing left).
 
 <img width="1423" alt="image" src="https://github.com/user-attachments/assets/ed125e00-eb9b-427a-b911-dd9208aeffed" />
 
