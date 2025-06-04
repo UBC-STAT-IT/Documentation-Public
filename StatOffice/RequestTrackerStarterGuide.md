@@ -2,6 +2,14 @@
 
 This guide was created to provide a basic introduction to the [Request Tracker](https://r9-rt5.stat.ubc.ca) ticketing system. 
 
+# Table of Contents
+1. [Logging in](#logging-in)
+2. [Front page](#front-page)
+3. [Taking tickets](#taking-tickets)
+4. [Replying to tickets](#replying-to-tickets)
+5. [Changing ticket owner](#changing-ticket-owner)
+6. [Resolving tickets](#resolving-tickets)
+7. [Logging out](#logging-out)
 ## Logging in
 
 Go to the [Request Tracker website](https://r9-rt5.stat.ubc.ca) on any modern browser.
@@ -69,6 +77,19 @@ You can also add attachments by using the box under the input box 'Drop files he
 When you're done click the 'Update ticket' button and your reply will be sent automatically to the requestor and anyone else CC'd on the conversation.
 
 <img width="1470" alt="image" src="https://github.com/user-attachments/assets/1600c5e6-8a27-4ffe-96a4-985e210ada1b" />
+
+## Changing ticket owner
+
+You may need to reassign the ticket to someone else or remove your ownership of the ticket (e.g. going on vacation).
+
+To do that, open the ticket info page and go to the 'People' panel. Click the edit icon.
+
+<img width="695" alt="image" src="https://github.com/user-attachments/assets/079588e2-39e7-4c84-a444-2bb3b43ba46a" />
+
+Click the 'Owner' dropdown menu and choose who to assign the ticket to. Click 'Nobody in particular' to remove yourself as the owner and put the ticket back into the ticket queue for someone else to take.
+
+<img width="695" alt="image" src="https://github.com/user-attachments/assets/ee3f47fd-2b3d-4da9-957e-75bc9b9a54b4" />
+
 
 ## Resolving tickets
 
