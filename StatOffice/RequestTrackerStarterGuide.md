@@ -90,6 +90,21 @@ Click the 'Owner' dropdown menu and choose who to assign the ticket to. Click 'N
 
 <img width="695" alt="image" src="https://github.com/user-attachments/assets/ee3f47fd-2b3d-4da9-957e-75bc9b9a54b4" />
 
+Finally click 'Save' on the bottom right.
+
+## Changing ticket queue
+
+The ticket may have been placed in the wrong queue, to change the assigned queue for the ticket:
+
+Open the ticket info page and go to the 'The Basics' panel. Click the edit icon.
+
+<img width="1221" height="231" alt="image" src="https://github.com/user-attachments/assets/1b440d22-0c7b-4157-ab15-b6f82dcd23fb" />
+
+Click the 'Queue' dropdown menu and choose the correct queue for the ticket.
+
+<img width="1068" height="291" alt="image" src="https://github.com/user-attachments/assets/0fad0947-3c17-4d4b-b543-299d816d07ae" />
+
+Finally click 'Save' on the bottom right.
 
 ## Resolving tickets
 
