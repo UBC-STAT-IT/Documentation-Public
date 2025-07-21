@@ -8,8 +8,9 @@ This guide was created to provide a basic introduction to the [Request Tracker](
 3. [Taking tickets](#taking-tickets)
 4. [Replying to tickets](#replying-to-tickets)
 5. [Changing ticket owner](#changing-ticket-owner)
-6. [Resolving tickets](#resolving-tickets)
-7. [Logging out](#logging-out)
+6. [Changing ticket queue](#changing-ticket-queue)
+7. [Resolving tickets](#resolving-tickets)
+8. [Logging out](#logging-out)
 ## Logging in
 
 Go to the [Request Tracker website](https://r9-rt5.stat.ubc.ca) on any modern browser.
