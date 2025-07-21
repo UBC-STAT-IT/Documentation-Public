@@ -123,6 +123,8 @@ Otherwise if any of the other statuses match the situation, choose one of those 
 
 If you resolved the ticket then the ticket will no longer be shown to you or anybody else on the front page or the ticket queue. It has been archived but can be found with the ticket search tool found on the top menu bar.
 
+Finally click 'Save' on the bottom right.
+
 ## Logging out
 
 When you're done, make sure to log out using the option on the top menu bar:
