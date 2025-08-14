@@ -10,7 +10,8 @@ This guide was created to provide a basic introduction to the [Request Tracker](
 5. [Changing ticket owner](#changing-ticket-owner)
 6. [Changing ticket queue](#changing-ticket-queue)
 7. [Resolving tickets](#resolving-tickets)
-8. [Logging out](#logging-out)
+8. [Merging tickets](#merging-tickets)
+9. [Logging out](#logging-out)
 ## Logging in
 
 Go to the [Request Tracker website](https://r9-rt5.stat.ubc.ca) on any modern browser.
@@ -124,6 +125,23 @@ Otherwise if any of the other statuses match the situation, choose one of those 
 If you resolved the ticket then the ticket will no longer be shown to you or anybody else on the front page or the ticket queue. It has been archived but can be found with the ticket search tool found on the top menu bar.
 
 Finally click 'Save' on the bottom right.
+
+## Merging tickets
+**WARNING: Only do this if you're sure the tickets are from the same owner and are about an identical issue, this is an unreversible process.**
+
+If you believe that two or more tickets from the same student are dealing with the same issue you can merge those tickets together to consolidate them into a single ticket for easier referencing.
+
+To do so, take a note of the ticket number of the ticket you would like to keep at the end of the merging process i.e. the best ticket. 
+
+Open the other ticket and click the edit button for the 'Links' section.
+
+<img width="711" height="313" alt="image" src="https://github.com/user-attachments/assets/f5d5ac94-3548-4210-92fa-fb7b9707aeea" />
+
+After clicking the edit button, you'll see a line with the title "Merge into:". Put the ticket number noted earlier into that line and click 'Save'.
+
+<img width="689" height="177" alt="image" src="https://github.com/user-attachments/assets/c799abbf-0ddd-4634-8b05-813e99f315e0" />
+
+If the merge was successful then the ticket you kept will have all the info/correspondence from the other ticket.
 
 ## Logging out
 
