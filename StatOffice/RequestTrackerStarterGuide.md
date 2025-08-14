@@ -127,7 +127,7 @@ If you resolved the ticket then the ticket will no longer be shown to you or any
 Finally click 'Save' on the bottom right.
 
 ## Merging tickets
-**WARNING: Only do this if you're sure the tickets are from the same owner and are about an identical issue, this is an unreversible process.**
+**WARNING: Only do this if you're sure the tickets are from the same student and are about an identical issue, this is an unreversible process.**
 
 If you believe that two or more tickets from the same student are dealing with the same issue you can merge those tickets together to consolidate them into a single ticket for easier referencing.
 
