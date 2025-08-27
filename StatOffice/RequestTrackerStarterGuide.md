@@ -11,8 +11,9 @@ This guide was created to provide a basic introduction to the [Request Tracker](
 6. [Changing ticket owner](#changing-ticket-owner)
 7. [Changing ticket queue](#changing-ticket-queue)
 8. [Resolving tickets](#resolving-tickets)
-9. [Merging tickets](#merging-tickets)
-10. [Logging out](#logging-out)
+9. [Checking resolved tickets](#checking-resolved-tickets)
+10. [Merging tickets](#merging-tickets)
+11. [Logging out](#logging-out)
 ## Logging in
 
 Go to the [Request Tracker website](https://r9-rt5.stat.ubc.ca) on any modern browser.
@@ -140,6 +141,44 @@ Otherwise if any of the other statuses match the situation, choose one of those 
 If you resolved the ticket then the ticket will no longer be shown to you or anybody else on the front page or the ticket queue. It has been archived but can be found with the ticket search tool found on the top menu bar.
 
 Finally click 'Save' on the bottom right.
+
+## Checking resolved tickets
+
+To look at tickets you have resolved, hover over the 'Reports' menu on the top menu bar and click the menu option for 'Resolved by owner'.
+
+<img width="587" height="244" alt="image" src="https://github.com/user-attachments/assets/00e859f5-250d-4306-9ed7-947ea0eff616" />
+
+Go to the bar graph for your account and click the coloured bar above your account.
+
+<img width="638" height="460" alt="image" src="https://github.com/user-attachments/assets/0d6e9370-c493-4c5b-9db6-beb265bac4ee" />
+
+It will take you to the page with all the tickets you have resolved so far.
+
+If you want to narrow down the search further, click the 'Edit search' button on the top right and it will give you several search options.
+
+**Alternative** Use textual search described [here](#searching-for-tickets)
+
+## Searching for tickets
+
+If there is a certain ticket you're looking for, you can use the 'Simple search' function.
+
+Go to the top menu bar and hover over 'Search' and then 'Tickets'. Click 'Simple search'
+
+<img width="413" height="160" alt="image" src="https://github.com/user-attachments/assets/8089ef98-e7c6-4156-ab38-092f516f334c" />
+
+To search, type in a textual query to find your tickets like on any search engine such as Google.
+
+**EXAMPLES**
+
+To search for a subject: `subject: STAT 301 registration`
+
+To search for all tickets (open, resolved, rejected, etc.): `status:any`
+
+See all tickets in a queue: `queue:'Your queue name' status:any`
+
+To search for all resolved tickets by you in a queue: `queue:'Your queue name' status:resolved owner:your.accountname`
+
+Several other examples are listed on the search page for more options.
 
 ## Merging tickets
 **WARNING: Only do this if you're sure the tickets are from the same student and are about an identical issue, this is an unreversible process.**
