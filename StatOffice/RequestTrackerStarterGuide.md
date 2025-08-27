@@ -149,6 +149,8 @@ To look at tickets you have resolved, hover over the 'Reports' menu on the top m
 
 <img width="587" height="244" alt="image" src="https://github.com/user-attachments/assets/00e859f5-250d-4306-9ed7-947ea0eff616" />
 
+Choose the name of the queue you would like to check from the dropdown menu.
+
 Go to the bar graph for your account and click the coloured bar above your account.
 
 <img width="638" height="460" alt="image" src="https://github.com/user-attachments/assets/0d6e9370-c493-4c5b-9db6-beb265bac4ee" />
