@@ -6,12 +6,13 @@ This guide was created to provide a basic introduction to the [Request Tracker](
 1. [Logging in](#logging-in)
 2. [Front page](#front-page)
 3. [Taking tickets](#taking-tickets)
-4. [Replying to tickets](#replying-to-tickets)
-5. [Changing ticket owner](#changing-ticket-owner)
-6. [Changing ticket queue](#changing-ticket-queue)
-7. [Resolving tickets](#resolving-tickets)
-8. [Merging tickets](#merging-tickets)
-9. [Logging out](#logging-out)
+4. [Removing requestors or CCs](#removing-requestors-or-ccs)
+5. [Replying to tickets](#replying-to-tickets)
+6. [Changing ticket owner](#changing-ticket-owner)
+7. [Changing ticket queue](#changing-ticket-queue)
+8. [Resolving tickets](#resolving-tickets)
+9. [Merging tickets](#merging-tickets)
+10. [Logging out](#logging-out)
 ## Logging in
 
 Go to the [Request Tracker website](https://r9-rt5.stat.ubc.ca) on any modern browser.
@@ -63,6 +64,20 @@ This page shows you several panels:
 'Links' lets you link other tickets to the ticket you are currently looking at.
 
 'History' shows all the changes made to the ticket and logs the messages between you and the requestor or anybody else. Latest replies or changes are on the bottom of the list.
+
+## Removing requestors or CCs
+
+Students will sometimes add unrelated faculty members or other staff as requestors or CCs for the ticket. To avoid spamming their inboxes, remove the faculty or staff from the ticket.
+
+Click the ticket to go to its ticket summary and under 'Ticket Metadata' go to the 'People' panel.
+
+Click the edit button on the 'People' panel.
+
+<img width="701" height="214" alt="image" src="https://github.com/user-attachments/assets/2cbda086-e1f0-4ad7-a64d-12ed62c51cf8" />
+
+Go to the name of the faculty or staff member and click the checkbox beside their name. Then click 'Save'.
+
+<img width="696" height="388" alt="image" src="https://github.com/user-attachments/assets/cd050aa1-b51f-4acb-bed6-b582a25aeb03" />
 
 ## Replying to tickets
 
