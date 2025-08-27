@@ -171,7 +171,7 @@ To search, type in a textual query to find your tickets like on any search engin
 
 **EXAMPLES**
 
-To search for a subject: `subject: STAT 301 registration`
+To search for a subject: `subject:'STAT 301 registration'`
 
 To search for all tickets (open, resolved, rejected, etc.): `status:any`
 
