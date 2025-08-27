@@ -12,8 +12,9 @@ This guide was created to provide a basic introduction to the [Request Tracker](
 7. [Changing ticket queue](#changing-ticket-queue)
 8. [Resolving tickets](#resolving-tickets)
 9. [Checking resolved tickets](#checking-resolved-tickets)
-10. [Merging tickets](#merging-tickets)
-11. [Logging out](#logging-out)
+10. [Searching for tickets](#searching-for-tickets)
+11. [Merging tickets](#merging-tickets)
+12. [Logging out](#logging-out)
 ## Logging in
 
 Go to the [Request Tracker website](https://r9-rt5.stat.ubc.ca) on any modern browser.
