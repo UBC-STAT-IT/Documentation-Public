@@ -9,14 +9,15 @@ This guide was created to provide a basic introduction to the [Request Tracker](
 4. [Removing requestors or CCs](#removing-requestors-or-ccs)
 5. [Forwarding a request](#forwarding-a-request)
 6. [Replying to tickets](#replying-to-tickets)
-7. [Changing ticket owner](#changing-ticket-owner)
-8. [Changing ticket queue](#changing-ticket-queue)
-9. [Resolving tickets](#resolving-tickets)
-10. [Checking resolved tickets](#checking-resolved-tickets)
-11. [Searching for tickets](#searching-for-tickets)
-12. [Merging tickets](#merging-tickets)
-13. [Quick actions](#quick-actions)
-14. [Logging out](#logging-out)
+7. [Commenting on tickets](#commenting-on-tickets)
+8. [Changing ticket owner](#changing-ticket-owner)
+9. [Changing ticket queue](#changing-ticket-queue)
+10. [Resolving tickets](#resolving-tickets)
+11. [Checking resolved tickets](#checking-resolved-tickets)
+12. [Searching for tickets](#searching-for-tickets)
+13. [Merging tickets](#merging-tickets)
+14. [Quick actions](#quick-actions)
+15. [Logging out](#logging-out)
 ## Logging in
 
 Go to the [Request Tracker website](https://r9-rt5.stat.ubc.ca) on any modern browser.
