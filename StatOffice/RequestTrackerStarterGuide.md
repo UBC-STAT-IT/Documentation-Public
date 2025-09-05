@@ -169,11 +169,11 @@ Go to the top menu bar and hover over 'Search' and then 'Tickets'. Click 'Simple
 
 <img width="413" height="160" alt="image" src="https://github.com/user-attachments/assets/8089ef98-e7c6-4156-ab38-092f516f334c" />
 
-To search, type in a textual query to find your tickets. If you want to search for a certain keyword, then put quotes around it to search for that word e.g. "registration"
+To search, type in a textual query to find your tickets. If you just want to search for a certain keyword or string, then put single quotes and double quotes around it to search for that word e.g. '"registration"'
 
 **EXAMPLES**
 
-To search for a keyword: `"STAT302"`
+To search for a keyword or string: `'"STAT 302"'`
 
 To search for a requestor (student): `requestor:ali.r.abbas@gmail.com`
 
