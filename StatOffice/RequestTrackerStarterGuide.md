@@ -15,7 +15,8 @@ This guide was created to provide a basic introduction to the [Request Tracker](
 10. [Checking resolved tickets](#checking-resolved-tickets)
 11. [Searching for tickets](#searching-for-tickets)
 12. [Merging tickets](#merging-tickets)
-13. [Logging out](#logging-out)
+13. [Quick actions](#quick-actions)
+14. [Logging out](#logging-out)
 ## Logging in
 
 Go to the [Request Tracker website](https://r9-rt5.stat.ubc.ca) on any modern browser.
@@ -119,6 +120,15 @@ Student requestors are always notified by default when you send a message in a t
 If you're replying to someone else other than the student requestor, for example someone you forwarded a message to, uncheck the student's e-mail under 'On Correspond Notify Requestors'. Also ensure whoever you're replying to is listed as a 'One-time CC' or 'One-time BCC'.
 
 <img width="1746" height="760" alt="image" src="https://github.com/user-attachments/assets/9250771e-8e34-4659-9a0d-bfc23e3b2565" />
+
+## Commenting on tickets
+
+If you want to note something on a ticket without sending a message to anyone, then use the 'Comment' option (speech bubble icon) in the History panel to create a comment.
+
+<img width="730" height="285" alt="image" src="https://github.com/user-attachments/assets/f4b84340-cea5-4272-91c9-9af15adb580f" />
+
+This will create an entry in History with your comment and nobody will be notified.
+
 
 ## Changing ticket owner
 
@@ -226,6 +236,16 @@ After clicking the edit button, you'll see a line with the title "Merge into:". 
 <img width="689" height="177" alt="image" src="https://github.com/user-attachments/assets/c799abbf-0ddd-4634-8b05-813e99f315e0" />
 
 If the merge was successful then the ticket you kept will have all the info/correspondence from the other ticket.
+
+## Quick actions
+
+If you want to avoid scrolling and clicking through multiple menus, there are 'Actions' shortcuts that could help.
+
+Open a ticket, then on the top right there will be an 'Actions' menu. Hover over it and multiple options will pop-up.
+
+<img width="798" height="309" alt="image" src="https://github.com/user-attachments/assets/ab9003ff-4009-4f20-a520-056898f249fd" />
+
+Click one of the actions to quickly complete that task.
 
 ## Logging out
 
