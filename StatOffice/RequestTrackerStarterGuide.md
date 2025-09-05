@@ -100,7 +100,7 @@ To reply to a ticket go to the 'History' panel and navigate to the latest messag
 
 <img width="1423" alt="image" src="https://github.com/user-attachments/assets/ed125e00-eb9b-427a-b911-dd9208aeffed" />
 
-If you want to add others as a CC or BCC, add them to the 'One-time CC' and/or 'One-time BCC' areas.
+If you want to add others as a CC or BCC, add them to the 'One-time CC' and/or 'One-time BCC' areas. Remove any e-mails from these fields that shouldn't be a CC.
 
 <img width="839" height="216" alt="image" src="https://github.com/user-attachments/assets/93c94620-5afd-45bc-824d-f02415cfea2a" />
 
