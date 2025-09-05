@@ -114,7 +114,9 @@ When you're done click the 'Update ticket' button and your reply will be sent au
 
 <img width="1470" alt="image" src="https://github.com/user-attachments/assets/1600c5e6-8a27-4ffe-96a4-985e210ada1b" />
 
-Student requestors are always notified by default when you send a message in a ticket. If you are replying to someone else other than the student requestor, for example someone you forwarded the ticket to, uncheck the student's e-mail under 'On Correspond Notify Requestors'. Also ensure whoever you're replying to is listed as a 'One-time CC' or 'One-time BCC'.
+Student requestors are always notified by default when you send a message in a ticket. 
+
+If you're replying to someone else other than the student requestor, for example someone you forwarded the ticket to, uncheck the student's e-mail under 'On Correspond Notify Requestors'. Also ensure whoever you're replying to is listed as a 'One-time CC' or 'One-time BCC'.
 
 <img width="1746" height="760" alt="image" src="https://github.com/user-attachments/assets/9250771e-8e34-4659-9a0d-bfc23e3b2565" />
 
