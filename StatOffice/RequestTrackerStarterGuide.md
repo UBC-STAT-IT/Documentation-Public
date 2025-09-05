@@ -7,14 +7,15 @@ This guide was created to provide a basic introduction to the [Request Tracker](
 2. [Front page](#front-page)
 3. [Taking tickets](#taking-tickets)
 4. [Removing requestors or CCs](#removing-requestors-or-ccs)
-5. [Replying to tickets](#replying-to-tickets)
-6. [Changing ticket owner](#changing-ticket-owner)
-7. [Changing ticket queue](#changing-ticket-queue)
-8. [Resolving tickets](#resolving-tickets)
-9. [Checking resolved tickets](#checking-resolved-tickets)
-10. [Searching for tickets](#searching-for-tickets)
-11. [Merging tickets](#merging-tickets)
-12. [Logging out](#logging-out)
+5. [Forwarding a request](#forwarding-a-request)
+6. [Replying to tickets](#replying-to-tickets)
+7. [Changing ticket owner](#changing-ticket-owner)
+8. [Changing ticket queue](#changing-ticket-queue)
+9. [Resolving tickets](#resolving-tickets)
+10. [Checking resolved tickets](#checking-resolved-tickets)
+11. [Searching for tickets](#searching-for-tickets)
+12. [Merging tickets](#merging-tickets)
+13. [Logging out](#logging-out)
 ## Logging in
 
 Go to the [Request Tracker website](https://r9-rt5.stat.ubc.ca) on any modern browser.
@@ -81,11 +82,27 @@ Go to the name of the faculty or staff member and click the checkbox beside thei
 
 <img width="696" height="388" alt="image" src="https://github.com/user-attachments/assets/cd050aa1-b51f-4acb-bed6-b582a25aeb03" />
 
+## Forwarding a request
+
+To forward a student request to another staff or faculty for review, open the ticket, go to the student's request and click the "Forward" icon on the top right.
+
+<img width="1397" height="402" alt="image" src="https://github.com/user-attachments/assets/ea0c1d9a-1f25-48bc-9176-0ae07f764770" />
+
+Fill the "To" field with whoever you want to forward the message to and type in any additional message in the text box.
+
+The forwarding prompt doesn't show the student's original message, if want to see it at the same time then you will have to open another ticketing system window with the message or open it in your e-mails.
+
+When you're done, click "Forward Message and Return"
+
 ## Replying to tickets
 
 To reply to a ticket go to the 'History' panel and navigate to the latest message from the ticket requestor and click reply button (arrow pointing left).
 
 <img width="1423" alt="image" src="https://github.com/user-attachments/assets/ed125e00-eb9b-427a-b911-dd9208aeffed" />
+
+If you want to add others as a CC or BCC, add them to the 'One-time CC' and/or 'One-time BCC' areas.
+
+<img width="839" height="216" alt="image" src="https://github.com/user-attachments/assets/93c94620-5afd-45bc-824d-f02415cfea2a" />
 
 Hover over the top right of the input box and click the red arrow (not visible in the image) to "Insert paragraph here" which will let you start typing above the requestors reply.
 
@@ -96,6 +113,10 @@ You can also add attachments by using the box under the input box 'Drop files he
 When you're done click the 'Update ticket' button and your reply will be sent automatically to the requestor and anyone else CC'd on the conversation.
 
 <img width="1470" alt="image" src="https://github.com/user-attachments/assets/1600c5e6-8a27-4ffe-96a4-985e210ada1b" />
+
+If you are replying to someone else other than the student requestor, for example someone you forwarded the ticket to, uncheck the student's e-mail under 'On Correspond Notify Requestors'. Also ensure whoever you're replying to is listed as a 'One-time CC' or 'One-time BCC'.
+
+<img width="1746" height="760" alt="image" src="https://github.com/user-attachments/assets/9250771e-8e34-4659-9a0d-bfc23e3b2565" />
 
 ## Changing ticket owner
 
